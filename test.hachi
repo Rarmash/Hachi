@@ -1,0 +1,4 @@
+pr = Привет
+ez = Мир
+rprint pr
+rprint ez
